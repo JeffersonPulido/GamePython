@@ -1,5 +1,8 @@
 # GamePython
-===============================================================================
+Instalacion:
+1. pip install playsound
+2. Ejecutar game.py
+=========================================================================
 <h1 align="center">Hola 👋, Me llamo Jefferson Pulido</h1>
 <h3 align="center">Soy Desarrollador Web Junior, tengo conocimientos <b>básicos</b> en PHP, HTML, CSS y otros... Soy responsable y autodidacta!</h3>
 
