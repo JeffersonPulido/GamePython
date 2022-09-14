@@ -1,6 +1,8 @@
 #Libreria
 import os
 import time
+from playsound import playsound
+
 clear = lambda: os.system('cls')
 
 #Funcion
@@ -9,6 +11,7 @@ def print_x(x):
     time.sleep(1.5)
 
 def gameover():
+        playsound('audio.mp3')
         print_x(31*"*")
         print_x(10*"*"+" GAME OVER "+10*"*")
         print_x(31*"*")
